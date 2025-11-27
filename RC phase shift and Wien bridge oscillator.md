@@ -38,6 +38,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ### WEIN BRIDGE:
 
+
 ## CALCULATIONS:
 ### RC PHASE SHIFT OSCILLATOR:
 
