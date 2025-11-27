@@ -34,6 +34,7 @@ For v2 and v3  keeping the other values constant.
 8. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
+
 ### DAC:
 
 
