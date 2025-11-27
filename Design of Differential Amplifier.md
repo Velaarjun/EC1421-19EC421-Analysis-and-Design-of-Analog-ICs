@@ -41,6 +41,7 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 
 ## TABULATION:
 
+
 ## CALCULATIONS:
 
 ## GRAPH:
