@@ -84,6 +84,7 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                 Ri = Rf 
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
+
 ## LOW_PASS
 ## HIGH-PASS
 ## BAND-PASS
